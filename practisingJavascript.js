@@ -944,3 +944,5 @@
 //     }
 // }
 // console.log(sumExist(pole, cisloInput));
+
+//TUTO ZMENU CHCI VIDET NA GITHUBU
